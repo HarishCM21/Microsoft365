@@ -1,9 +1,9 @@
 # Microsoft365
 ### Purpase: This script help to fetch Microsoft 365 events using Graph API
-## Creator: Harish C M
-## Created on: 28-08-2023
-## Version: 1.0
-## Provide your feedback on a mail with subject "Microsoft 365" at "harishcm21@gmail.com" to update the script to help the users
+### Creator: Harish C M
+### Created on: 28-08-2023
+### Version: 1.0
+### Provide your feedback on a mail with subject "Microsoft 365" at "harishcm21@gmail.com" to update the script to help the users
 
 Steps: The application requried to create  Azure AD application as shown explained below.
 1. Login to portal.azure.com
@@ -23,5 +23,5 @@ Steps: The application requried to create  Azure AD application as shown explain
 15. Check the permission mentioned in the Powershell application and click on "Add permissions"
 16. click on the "Grant admin consent for <your org name> (repeat step 13 to 16 when you like to add permission to fetch different reports)
 
-# Note: If "View Report" button enable after clicking, it means there is no events/logs available for 30days
-# Note: There is no days limitation hard coded on the script.
+## Note: If "View Report" button enable after clicking, it means there is no events/logs available for 30days
+## Note: There is no days limitation hard coded on the script.
